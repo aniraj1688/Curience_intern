@@ -31,3 +31,11 @@ def score_cross(i):
         except:
             return 0
 
+def getCol(val):
+    MODEL = load_model()
+    val_to_col = MODEL['feature_importance'][2]
+    try:
+        return val_to_col[val]
+    except:
+        return None
+

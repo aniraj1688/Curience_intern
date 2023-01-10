@@ -233,9 +233,16 @@ def score_cross(i):
       return cross_dict[val2][val1]
     except:
       return 0
+
+# To get Column name from a given value
+val_to_col={}
+for col in final_cols:
+  for j in df2[col].unique():
+    if pd.isnull(j): continue
+    val_to_col[j] = col
+  
     
-    
-final_dict={'feature_importance': [dict, cross_dict]}
+final_dict={'feature_importance': [dict, cross_dict, val_to_col]}
 
 json_object = json.dumps(final_dict, indent = 4) 
 #print(json_object)

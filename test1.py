@@ -1,3 +1,6 @@
+# THis file is for testing the other files
+
+
 # import json
 
 
@@ -11,4 +14,4 @@
 
 from feature_importance import *
 
-print(score_cross(['crop', 'rede']))
+print(score_cross(['crop', 'red']))

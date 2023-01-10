@@ -19,7 +19,7 @@ jsonFile.write(json_object)
 jsonFile.close()
 
 
-query_parse = {'color': 'red', 'length': 'crop', 'type': 'top'}
+query_parse = {'color': 'black', 'length': 'crop', 'type': 'top'}
 
 def main():
 	print(compute_mini_retrievers(query_parse))

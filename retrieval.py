@@ -1,16 +1,7 @@
 from feature_importance import *
 import numpy as np
 import sys
-# from absl import app
-# from absl import flags
 
-# FLAGS = flags.FLAGS
-
-
-# flags.DEFINE_string('th', '0', '')
-# flags.FLAGS(sys.argv)
-# threshold = float(FLAGS.th)
-#print(threshold)
 query = {'color': 'red', 'length': 'crop', 'type': 'top'}
 
 # Opening JSON file
@@ -106,4 +97,4 @@ def compute_mini_retrievers(query):
     return driver(query)
 
 
-#compute_mini_retrievers(query)
+#print(compute_mini_retrievers(query), threshold)

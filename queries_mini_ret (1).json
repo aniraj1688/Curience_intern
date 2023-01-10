@@ -1,0 +1,1407 @@
+{
+    "emerald green sling bag": [
+        {},
+        {
+            "color": "emerald green"
+        }
+    ],
+    "fuschia pink oversized blazer": [
+        {},
+        {
+            "fit_type": "oversized"
+        },
+        {
+            "color": "pink"
+        },
+        {
+            "color": "pink",
+            "fit_type": "oversized"
+        }
+    ],
+    "blue oxford shirt": [
+        {},
+        {
+            "type": "shirt"
+        },
+        {
+            "color": "blue"
+        },
+        {
+            "color": "blue",
+            "type": "shirt"
+        }
+    ],
+    "midi length printed slit skirt": [
+        {
+            "type": "skirt",
+            "hem_shaped": "slit"
+        },
+        {
+            "pattern_type": "printed",
+            "type": "skirt",
+            "hem_shaped": "slit"
+        },
+        {
+            "length": "midi",
+            "type": "skirt",
+            "hem_shaped": "slit"
+        },
+        {
+            "length": "midi",
+            "pattern_type": "printed",
+            "type": "skirt",
+            "hem_shaped": "slit"
+        }
+    ],
+    "regular fit white t shirt": [
+        {},
+        {
+            "type": "tee"
+        },
+        {
+            "fit_type": "regular"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "fit_type": "regular",
+            "type": "tee"
+        },
+        {
+            "color": "white",
+            "type": "tee"
+        },
+        {
+            "color": "white",
+            "fit_type": "regular"
+        },
+        {
+            "color": "white",
+            "fit_type": "regular",
+            "type": "tee"
+        }
+    ],
+    "solid white boxy fit t shirt": [
+        {},
+        {
+            "type": "tee"
+        },
+        {
+            "pattern_type": "plain"
+        },
+        {
+            "fit_type": "loose"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "pattern_type": "plain",
+            "type": "tee"
+        },
+        {
+            "fit_type": "loose",
+            "type": "tee"
+        },
+        {
+            "fit_type": "loose",
+            "pattern_type": "plain"
+        },
+        {
+            "color": "white",
+            "type": "tee"
+        },
+        {
+            "color": "white",
+            "pattern_type": "plain"
+        },
+        {
+            "color": "white",
+            "fit_type": "loose"
+        },
+        {
+            "fit_type": "loose",
+            "pattern_type": "plain",
+            "type": "tee"
+        },
+        {
+            "color": "white",
+            "pattern_type": "plain",
+            "type": "tee"
+        },
+        {
+            "color": "white",
+            "fit_type": "loose",
+            "type": "tee"
+        },
+        {
+            "color": "white",
+            "fit_type": "loose",
+            "pattern_type": "plain"
+        },
+        {
+            "color": "white",
+            "fit_type": "loose",
+            "pattern_type": "plain",
+            "type": "tee"
+        }
+    ],
+    "tapering end mom fit high rise blue jeans": [
+        {},
+        {
+            "waist_line": "high"
+        },
+        {
+            "type": "jeans"
+        },
+        {
+            "fit_type": "slim"
+        },
+        {
+            "color": "blue"
+        },
+        {
+            "type": "jeans",
+            "waist_line": "high"
+        },
+        {
+            "fit_type": "slim",
+            "waist_line": "high"
+        },
+        {
+            "fit_type": "slim",
+            "type": "jeans"
+        },
+        {
+            "color": "blue",
+            "waist_line": "high"
+        },
+        {
+            "color": "blue",
+            "type": "jeans"
+        },
+        {
+            "color": "blue",
+            "fit_type": "slim"
+        },
+        {
+            "fit_type": "slim",
+            "type": "jeans",
+            "waist_line": "high"
+        },
+        {
+            "color": "blue",
+            "type": "jeans",
+            "waist_line": "high"
+        },
+        {
+            "color": "blue",
+            "fit_type": "slim",
+            "waist_line": "high"
+        },
+        {
+            "color": "blue",
+            "fit_type": "slim",
+            "type": "jeans"
+        },
+        {
+            "color": "blue",
+            "fit_type": "slim",
+            "type": "jeans",
+            "waist_line": "high"
+        }
+    ],
+    "wide leg white trousers": [
+        {
+            "type": "trousers",
+            "color": "white"
+        }
+    ],
+    "black hand bag": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "white sneakers": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "regular fit black halter neck top": [
+        {
+            "neckline": "halter",
+            "type": "top"
+        },
+        {
+            "fit_type": "regular",
+            "neckline": "halter",
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "neckline": "halter",
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "fit_type": "regular",
+            "neckline": "halter",
+            "type": "top"
+        }
+    ],
+    "white high rise jeans": [
+        {},
+        {
+            "waist_line": "high"
+        },
+        {
+            "type": "jeans"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "type": "jeans",
+            "waist_line": "high"
+        },
+        {
+            "color": "white",
+            "waist_line": "high"
+        },
+        {
+            "color": "white",
+            "type": "jeans"
+        },
+        {
+            "color": "white",
+            "type": "jeans",
+            "waist_line": "high"
+        }
+    ],
+    "black sling bag": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "black high top sneakers": [
+        {
+            "type": "top"
+        },
+        {
+            "neckline": "high",
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "neckline": "high",
+            "type": "top"
+        }
+    ],
+    "white casual shirt ": [
+        {},
+        {
+            "type": "shirt"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "color": "white",
+            "type": "shirt"
+        }
+    ],
+    "blue boyfriend fit high rise jeans": [
+        {},
+        {
+            "waist_line": "high"
+        },
+        {
+            "type": "jeans"
+        },
+        {
+            "fit_type": "slim"
+        },
+        {
+            "color": "blue"
+        },
+        {
+            "type": "jeans",
+            "waist_line": "high"
+        },
+        {
+            "fit_type": "slim",
+            "waist_line": "high"
+        },
+        {
+            "fit_type": "slim",
+            "type": "jeans"
+        },
+        {
+            "color": "blue",
+            "waist_line": "high"
+        },
+        {
+            "color": "blue",
+            "type": "jeans"
+        },
+        {
+            "color": "blue",
+            "fit_type": "slim"
+        },
+        {
+            "fit_type": "slim",
+            "type": "jeans",
+            "waist_line": "high"
+        },
+        {
+            "color": "blue",
+            "type": "jeans",
+            "waist_line": "high"
+        },
+        {
+            "color": "blue",
+            "fit_type": "slim",
+            "waist_line": "high"
+        },
+        {
+            "color": "blue",
+            "fit_type": "slim",
+            "type": "jeans"
+        },
+        {
+            "color": "blue",
+            "fit_type": "slim",
+            "type": "jeans",
+            "waist_line": "high"
+        }
+    ],
+    "brown round neck pullover": [
+        {},
+        {
+            "type": "pullovers"
+        },
+        {
+            "neckline": "round"
+        },
+        {
+            "color": "brown"
+        },
+        {
+            "neckline": "round",
+            "type": "pullovers"
+        },
+        {
+            "color": "brown",
+            "type": "pullovers"
+        },
+        {
+            "color": "brown",
+            "neckline": "round"
+        },
+        {
+            "color": "brown",
+            "neckline": "round",
+            "type": "pullovers"
+        }
+    ],
+    "womens black loafers": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "white rib knit halter neck crop top": [
+        {
+            "length": "crop",
+            "neckline": "halter",
+            "details": "rib knit",
+            "type": "top"
+        },
+        {
+            "color": "white",
+            "length": "crop",
+            "neckline": "halter",
+            "details": "rib knit",
+            "type": "top"
+        }
+    ],
+    "slim fit ankle length jeans": [
+        {
+            "length": "maxi"
+        },
+        {
+            "type": "jeans",
+            "length": "maxi"
+        },
+        {
+            "fit_type": "slim",
+            "length": "maxi"
+        },
+        {
+            "fit_type": "slim",
+            "type": "jeans",
+            "length": "maxi"
+        }
+    ],
+    "womens pink shirt": [
+        {},
+        {
+            "type": "shirt"
+        },
+        {
+            "color": "pink"
+        },
+        {
+            "color": "pink",
+            "type": "shirt"
+        }
+    ],
+    "womens white running shoes": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "ribbed square neck tank top": [
+        {
+            "details": "ribbed",
+            "neckline": "square"
+        },
+        {
+            "type": "tank",
+            "details": "ribbed",
+            "neckline": "square"
+        }
+    ],
+    "black pu leather shorts": [
+        {
+            "material": "pu leather",
+            "type": "shorts"
+        },
+        {
+            "color": "black",
+            "material": "pu leather",
+            "type": "shorts"
+        }
+    ],
+    "green poplin shirt": [
+        {},
+        {
+            "type": "shirt"
+        },
+        {
+            "material": "poplin"
+        },
+        {
+            "color": "green"
+        },
+        {
+            "material": "poplin",
+            "type": "shirt"
+        },
+        {
+            "color": "green",
+            "type": "shirt"
+        },
+        {
+            "color": "green",
+            "material": "poplin"
+        },
+        {
+            "color": "green",
+            "material": "poplin",
+            "type": "shirt"
+        }
+    ],
+    "black baseball cap": [
+        {},
+        {
+            "sleeve_length": "cap"
+        },
+        {
+            "neckline": "baseball collar"
+        },
+        {
+            "color": "black"
+        },
+        {
+            "neckline": "baseball collar",
+            "sleeve_length": "cap"
+        },
+        {
+            "color": "black",
+            "sleeve_length": "cap"
+        },
+        {
+            "color": "black",
+            "neckline": "baseball collar"
+        },
+        {
+            "color": "black",
+            "neckline": "baseball collar",
+            "sleeve_length": "cap"
+        }
+    ],
+    "black handbag with handle": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "white quotes t-shirt": [
+        {},
+        {
+            "type": "tee"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "color": "white",
+            "type": "tee"
+        }
+    ],
+    "boyfriend fit tapered jeans": [
+        {}
+    ],
+    "brown womens pullover": [
+        {},
+        {
+            "type": "pullovers"
+        },
+        {
+            "color": "brown"
+        },
+        {
+            "color": "brown",
+            "type": "pullovers"
+        }
+    ],
+    "black ad white bucket bag": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "womens white high top sneakers": [
+        {
+            "type": "top"
+        },
+        {
+            "neckline": "high",
+            "type": "top"
+        },
+        {
+            "color": "white",
+            "type": "top"
+        },
+        {
+            "color": "white",
+            "neckline": "high",
+            "type": "top"
+        }
+    ],
+    "black long sleeve top": [
+        {
+            "type": "top"
+        },
+        {
+            "sleeve_length": "long",
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "sleeve_length": "long",
+            "type": "top"
+        }
+    ],
+    "pleated beige wide trousers": [
+        {
+            "color": "beige",
+            "details": "pleated",
+            "type": "trousers",
+            "sleeve_type": "wide"
+        }
+    ],
+    "black womens blazer": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "black shoulder bag with quilted detail": [
+        {
+            "details": "quilted"
+        },
+        {
+            "color": "black",
+            "details": "quilted"
+        }
+    ],
+    "white womens sneakers": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "womens green strappy heels": [
+        {},
+        {
+            "neckline": "straps"
+        },
+        {
+            "color": "green"
+        },
+        {
+            "color": "green",
+            "neckline": "straps"
+        }
+    ],
+    "blue solid high neck pullover": [
+        {},
+        {
+            "type": "pullovers"
+        },
+        {
+            "pattern_type": "plain"
+        },
+        {
+            "neckline": "high"
+        },
+        {
+            "color": "blue"
+        },
+        {
+            "pattern_type": "plain",
+            "type": "pullovers"
+        },
+        {
+            "neckline": "high",
+            "type": "pullovers"
+        },
+        {
+            "neckline": "high",
+            "pattern_type": "plain"
+        },
+        {
+            "color": "blue",
+            "type": "pullovers"
+        },
+        {
+            "color": "blue",
+            "pattern_type": "plain"
+        },
+        {
+            "color": "blue",
+            "neckline": "high"
+        },
+        {
+            "neckline": "high",
+            "pattern_type": "plain",
+            "type": "pullovers"
+        },
+        {
+            "color": "blue",
+            "pattern_type": "plain",
+            "type": "pullovers"
+        },
+        {
+            "color": "blue",
+            "neckline": "high",
+            "type": "pullovers"
+        },
+        {
+            "color": "blue",
+            "neckline": "high",
+            "pattern_type": "plain"
+        },
+        {
+            "color": "blue",
+            "neckline": "high",
+            "pattern_type": "plain",
+            "type": "pullovers"
+        }
+    ],
+    "yellow solid casual bottoms": [
+        {},
+        {
+            "type": "bottom"
+        },
+        {
+            "pattern_type": "plain"
+        },
+        {
+            "color": "yellow"
+        },
+        {
+            "pattern_type": "plain",
+            "type": "bottom"
+        },
+        {
+            "color": "yellow",
+            "type": "bottom"
+        },
+        {
+            "color": "yellow",
+            "pattern_type": "plain"
+        },
+        {
+            "color": "yellow",
+            "pattern_type": "plain",
+            "type": "bottom"
+        }
+    ],
+    "red double breasted blazer": [
+        {},
+        {
+            "details": "double breasted"
+        },
+        {
+            "color": "red"
+        },
+        {
+            "color": "red",
+            "details": "double breasted"
+        }
+    ],
+    "maroon shoulder bag": [
+        {
+            "color": "maroon"
+        }
+    ],
+    "mid calf length silver boots with heels": [
+        {},
+        {
+            "length": "midi"
+        },
+        {
+            "color": "silver"
+        },
+        {
+            "color": "silver",
+            "length": "midi"
+        }
+    ],
+    "white casual cotton shirt": [
+        {},
+        {
+            "type": "shirt"
+        },
+        {
+            "material": "cotton"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "material": "cotton",
+            "type": "shirt"
+        },
+        {
+            "color": "white",
+            "type": "shirt"
+        },
+        {
+            "color": "white",
+            "material": "cotton"
+        },
+        {
+            "color": "white",
+            "material": "cotton",
+            "type": "shirt"
+        }
+    ],
+    "white flared trousers": [
+        {
+            "hem_shaped": "flared",
+            "type": "trousers",
+            "color": "white",
+            "sleeve_type": "flared"
+        }
+    ],
+    "blazer with buttons": [
+        {},
+        {
+            "details": "button"
+        }
+    ],
+    "gold pleated necklace": [
+        {
+            "color": "gold"
+        },
+        {
+            "details": "pleated",
+            "color": "gold"
+        }
+    ],
+    "maroon crossbody handbag": [
+        {
+            "color": "maroon"
+        }
+    ],
+    "black boots": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "black and white handbag": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "mocha platform heels": [
+        {}
+    ],
+    "emerald green satin slip dress": [
+        {
+            "material": "satin"
+        },
+        {
+            "color": "emerald green",
+            "material": "satin"
+        }
+    ],
+    "purple buttoned blazer": [
+        {},
+        {
+            "details": "button"
+        },
+        {
+            "color": "purple"
+        },
+        {
+            "color": "purple",
+            "details": "button"
+        }
+    ],
+    "3 layer gold necklace with pendant": [
+        {
+            "color": "gold"
+        }
+    ],
+    "green cross body bag": [
+        {},
+        {
+            "fit_type": "skinny"
+        },
+        {
+            "color": "green"
+        },
+        {
+            "color": "green",
+            "fit_type": "skinny"
+        }
+    ],
+    "white stilettoes": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "black turtleneck top": [
+        {
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "type": "top"
+        }
+    ],
+    "mom fit high ankle jeans": [
+        {}
+    ],
+    "brown coat with belt": [
+        {
+            "details": "belted",
+            "type": "coat"
+        },
+        {
+            "color": "brown",
+            "details": "belted",
+            "type": "coat"
+        }
+    ],
+    "black casual boots": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "white polo neck top": [
+        {
+            "neckline": "polo",
+            "type": "top"
+        },
+        {
+            "color": "white",
+            "neckline": "polo",
+            "type": "top"
+        }
+    ],
+    "black mini skirt": [
+        {
+            "type": "skirt"
+        },
+        {
+            "length": "mini",
+            "type": "skirt"
+        },
+        {
+            "color": "black",
+            "type": "skirt"
+        },
+        {
+            "color": "black",
+            "length": "mini",
+            "type": "skirt"
+        }
+    ],
+    "light green ribbed sweater vest": [
+        {
+            "details": "ribbed",
+            "type": "sweater vest",
+            "color": "light green"
+        }
+    ],
+    "womes black stockings": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "black ankle boots": [
+        {
+            "color": "black",
+            "length": "maxi"
+        }
+    ],
+    "white oversized t-shirt": [
+        {},
+        {
+            "type": "tee"
+        },
+        {
+            "fit_type": "oversized"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "fit_type": "oversized",
+            "type": "tee"
+        },
+        {
+            "color": "white",
+            "type": "tee"
+        },
+        {
+            "color": "white",
+            "fit_type": "oversized"
+        },
+        {
+            "color": "white",
+            "fit_type": "oversized",
+            "type": "tee"
+        }
+    ],
+    "black leggings": [
+        {
+            "type": "leggings"
+        },
+        {
+            "color": "black",
+            "type": "leggings"
+        }
+    ],
+    "grey oversized sweatshirt": [
+        {
+            "type": "sweatshirt"
+        },
+        {
+            "fit_type": "oversized",
+            "type": "sweatshirt"
+        },
+        {
+            "color": "grey",
+            "type": "sweatshirt"
+        },
+        {
+            "color": "grey",
+            "fit_type": "oversized",
+            "type": "sweatshirt"
+        }
+    ],
+    "white socks": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "black tote bag": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "womens white sneakers": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "white crop top": [
+        {
+            "length": "crop",
+            "type": "top"
+        },
+        {
+            "color": "white",
+            "length": "crop",
+            "type": "top"
+        }
+    ],
+    "blue wide leg jeans": [
+        {},
+        {
+            "type": "jeans"
+        },
+        {
+            "color": "blue"
+        },
+        {
+            "color": "blue",
+            "type": "jeans"
+        }
+    ],
+    "black faux leather jacket": [
+        {
+            "color": "black",
+            "material": "faux leather",
+            "type": "jacket"
+        }
+    ],
+    "layered gold pleated necklace": [
+        {
+            "color": "gold"
+        },
+        {
+            "details": "pleated",
+            "color": "gold"
+        }
+    ],
+    "leather chelsea boots": [
+        {}
+    ],
+    "womes sleeveless black sports top": [
+        {
+            "type": "top"
+        },
+        {
+            "sleeve_length": "sleeveless",
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "type": "top"
+        },
+        {
+            "color": "black",
+            "sleeve_length": "sleeveless",
+            "type": "top"
+        }
+    ],
+    "low waist wide leg jeans": [
+        {},
+        {
+            "waist_line": "drop"
+        },
+        {
+            "type": "jeans"
+        },
+        {
+            "type": "jeans",
+            "waist_line": "drop"
+        }
+    ],
+    "grey relaxed fit hoodie": [
+        {},
+        {
+            "fit_type": "loose"
+        },
+        {
+            "color": "grey"
+        },
+        {
+            "color": "grey",
+            "fit_type": "loose"
+        }
+    ],
+    "womens white trainers": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "womens rib knit polo neck jumper": [
+        {
+            "neckline": "polo",
+            "details": "rib knit",
+            "type": "jumper"
+        }
+    ],
+    "womens loose straight blue jeans": [
+        {
+            "color": "blue",
+            "fit_type": "loose"
+        },
+        {
+            "type": "jeans",
+            "color": "blue",
+            "fit_type": "loose"
+        },
+        {
+            "hem_shaped": "straight",
+            "color": "blue",
+            "fit_type": "loose"
+        },
+        {
+            "hem_shaped": "straight",
+            "type": "jeans",
+            "color": "blue",
+            "fit_type": "loose"
+        }
+    ],
+    "black oversized blazer": [
+        {},
+        {
+            "fit_type": "oversized"
+        },
+        {
+            "color": "black"
+        },
+        {
+            "color": "black",
+            "fit_type": "oversized"
+        }
+    ],
+    "black belt": [
+        {
+            "details": "belted"
+        },
+        {
+            "color": "black",
+            "details": "belted"
+        }
+    ],
+    "off white ribbed turtleneck pullover": [
+        {
+            "details": "ribbed"
+        },
+        {
+            "type": "pullovers",
+            "details": "ribbed"
+        },
+        {
+            "color": "off white",
+            "details": "ribbed"
+        },
+        {
+            "color": "off white",
+            "type": "pullovers",
+            "details": "ribbed"
+        }
+    ],
+    "brown pleated a-line midi skirt": [
+        {
+            "details": "pleated",
+            "type": "skirt"
+        },
+        {
+            "length": "midi",
+            "details": "pleated",
+            "type": "skirt"
+        },
+        {
+            "color": "brown",
+            "details": "pleated",
+            "type": "skirt"
+        },
+        {
+            "color": "brown",
+            "length": "midi",
+            "details": "pleated",
+            "type": "skirt"
+        }
+    ],
+    "gold pleated layered necklace": [
+        {
+            "color": "gold"
+        },
+        {
+            "details": "pleated",
+            "color": "gold"
+        }
+    ],
+    "tan brown heeled chelsea boots": [
+        {},
+        {
+            "color": "tan"
+        }
+    ],
+    "womens white formal shirt": [
+        {},
+        {
+            "type": "shirt"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "color": "white",
+            "type": "shirt"
+        }
+    ],
+    "white wide legged high jeans": [
+        {
+            "color": "white",
+            "sleeve_type": "wide"
+        },
+        {
+            "type": "jeans",
+            "color": "white",
+            "sleeve_type": "wide"
+        },
+        {
+            "neckline": "high",
+            "color": "white",
+            "sleeve_type": "wide"
+        },
+        {
+            "neckline": "high",
+            "type": "jeans",
+            "color": "white",
+            "sleeve_type": "wide"
+        }
+    ],
+    "womens black vneck pullover": [
+        {},
+        {
+            "type": "pullovers"
+        },
+        {
+            "color": "black"
+        },
+        {
+            "color": "black",
+            "type": "pullovers"
+        }
+    ],
+    "white cami top": [
+        {},
+        {
+            "type": "cami"
+        },
+        {
+            "color": "white"
+        },
+        {
+            "color": "white",
+            "type": "cami"
+        }
+    ],
+    "low waist blue wide legged jeans": [
+        {
+            "color": "blue",
+            "sleeve_type": "wide"
+        },
+        {
+            "waist_line": "drop",
+            "color": "blue",
+            "sleeve_type": "wide"
+        },
+        {
+            "type": "jeans",
+            "color": "blue",
+            "sleeve_type": "wide"
+        },
+        {
+            "type": "jeans",
+            "waist_line": "drop",
+            "color": "blue",
+            "sleeve_type": "wide"
+        }
+    ],
+    "white ribbed top with buttons": [
+        {
+            "type": "top"
+        },
+        {
+            "details": "button",
+            "type": "top"
+        },
+        {
+            "color": "white",
+            "type": "top"
+        },
+        {
+            "color": "white",
+            "details": "button",
+            "type": "top"
+        }
+    ],
+    "womens white trainers ": [
+        {},
+        {
+            "color": "white"
+        }
+    ],
+    "brown pullover sweater": [
+        {
+            "type": "sweater"
+        },
+        {
+            "color": "brown",
+            "type": "sweater"
+        }
+    ],
+    "black ankle length trousers": [
+        {
+            "color": "black",
+            "length": "maxi",
+            "type": "trousers"
+        }
+    ],
+    "black shoulder bag": [
+        {},
+        {
+            "color": "black"
+        }
+    ],
+    "womens knee high heeled boots": [
+        {},
+        {
+            "neckline": "high"
+        },
+        {
+            "length": "knee"
+        },
+        {
+            "length": "knee",
+            "neckline": "high"
+        }
+    ]
+}

@@ -10,24 +10,24 @@ from absl import app
 from absl import flags
 
 FLAGS = flags.FLAGS
-flags.DEFINE_string('dataset', None, '')
+flags.DEFINE_string('details_dataset', None, '')
 flags.DEFINE_string('titles_parsed_dataset', None, '')
 flags.DEFINE_string('output_file', None, '')
-flags.DEFINE_string('threshold', None, '')
+flags.DEFINE_float('threshold',0.0,0.0)
 
 # Set variables
 flags.FLAGS(sys.argv) 
   
-file1 = FLAGS.dataset
-file2 = FLAGS.titles_parsed_dataset
+details_dataset = FLAGS.details_dataset
+titles_parsed_dataset = FLAGS.titles_parsed_dataset
 output_file = FLAGS.output_file
 threshold = float(FLAGS.threshold) 
 
 
-def preprocess(file1, file2):  # Function to preprocess the dataframes and returns the dataframes and columns
+def preprocess(details_dataset, titles_parsed_dataset):  # Function to preprocess the dataframes and returns the dataframes and columns
   # Upload the two files first
-  df1=pd.read_csv(file1)
-  df2=pd.read_csv(file2)
+  df1=pd.read_csv(details_dataset)
+  df2=pd.read_csv(titles_parsed_dataset)
 
   df2 = df2.replace('-', np.nan)
 
@@ -249,7 +249,7 @@ def calculate_precision(dict, df, final_cols):
 
 # Main Function
 if __name__=="__main__":  
-  df1,df2,cols = preprocess(file1, file2)
+  df1,df2,cols = preprocess(details_dataset, titles_parsed_dataset)
   df, final_cols = merge_dataframes(df1,df2,cols)
   df = make_sure_title_issubset_of_body(df)
   df = remove_unnecessary_columns(df)

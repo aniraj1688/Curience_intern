@@ -1,12 +1,5 @@
 from feature_importance import *
 import numpy as np
-import sys
-
-query = {'color': 'red', 'length': 'crop', 'type': 'top'}
-
-# Opening JSON file
-f = open('threshold.json')
-threshold = json.load(f)['threshold']
 
 
 def subsets(numbers):
@@ -19,18 +12,18 @@ def subsets(numbers):
 def subsets_of_size(numbers, n):
     return [x for x in subsets(numbers) if len(x)==n]
 
-def extract_important_features_single(features): # returns only the important features from {query} Returns {K1_v1: 1,...}
+
+def extract_important_features_single(features, threshold): # returns only the important features from {query} Returns {K1_v1: 1,...}
   ans={}
   for col,val in features.items():
     if score_single(val) >= threshold:
       ans[col+"_"+val] = 1
     else:
       ans[col+"_"+val] = 0
-
   return ans
 
 
-def extract_important_features_cross(features): # returns only the important cross features from {query} Returns {i1, i2...}
+def extract_important_features_cross(features, threshold): # returns only the important cross features from {query} Returns {i1, i2...}
   ans=[]
   temp = subsets_of_size(list(features.values()), 2)
   #print(temp)
@@ -55,16 +48,17 @@ def make_dict(query): # query: ['col_red', 'type_crop']
     ans[starting_string]=temp[-1]
   return ans
 
-def driver(query):
+
+def driver(query, threshold):
   ans=[]
   
   # take into account single importance
-  temp = extract_important_features_single(query) 
+  temp = extract_important_features_single(query, threshold) 
   confirmed=[]
   not_confirmed=[]
   
   # take into account cross importance
-  temp2 = extract_important_features_cross(query)
+  temp2 = extract_important_features_cross(query, threshold)
   for i in temp2:
     confirmed.append(getCol(i)+"_"+i)
 
@@ -74,8 +68,6 @@ def driver(query):
       confirmed.append(col)
     else:
       not_confirmed.append(col)
-
-  #print("confirmed", confirmed)
     
     
   # Now make all subsets of not_confirmed and add it with confirmed and fire the query
@@ -91,9 +83,10 @@ def driver(query):
   return ans
 
 
+def compute_mini_retrievers(query, threshold):
+    return driver(query, threshold)
 
-def compute_mini_retrievers(query):
-    return driver(query)
 
-
-#print(compute_mini_retrievers(query), threshold)
+# TO test, use this
+# query = {'color': 'red', 'length': 'crop', 'type': 'top'}
+# print(compute_mini_retrievers(query, 0.5))

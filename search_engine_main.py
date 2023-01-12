@@ -3,28 +3,22 @@ from absl import app
 from absl import flags
 import sys
 import json
+
 FLAGS = flags.FLAGS
-
-
-flags.DEFINE_string('th', '', '')
+flags.DEFINE_string('threshold', '', '')
 flags.FLAGS(sys.argv)
-threshold = float(FLAGS.th)
-
-th = {'threshold': threshold}
-
-json_object = json.dumps(th, indent = 4) 
-#print(json_object)
-jsonFile = open('threshold.json', "w")
-jsonFile.write(json_object)
-jsonFile.close()
+threshold = float(FLAGS.threshold)
 
 
-query_parse = {'color': 'black', 'length': 'crop', 'type': 'top'}
+def write_threshold_in_file():
+	th = {'threshold': threshold}
+	json_object = json.dumps(th, indent = 4) 
+	jsonFile = open('threshold.json', "w")
+	jsonFile.write(json_object)
+	jsonFile.close()
 
-def main():
-	print(compute_mini_retrievers(query_parse))
-	#perform_dummy_Search()
-	#print(output)
  
 if __name__=="__main__":
-    main()
+    query_parse = {'color': 'black', 'length': 'crop', 'type': 'top'} # You can set query
+    write_threshold_in_file()
+    print(compute_mini_retrievers(query_parse))

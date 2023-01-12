@@ -6,7 +6,6 @@ query = {'color': 'red', 'length': 'crop', 'type': 'top'}
 
 # Opening JSON file
 f = open('threshold.json')
-
 threshold = json.load(f)['threshold']
 
 
